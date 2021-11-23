@@ -12,7 +12,7 @@ Here are used some libraries such as
 ## Details
 Backend API deployed in Heroku [here](https://blooming-bastion-22700.herokuapp.com/)
 
-# Ex.
+### Ex.
 [Route](https://blooming-bastion-22700.herokuapp.com/api/v1/products) to fetch all products
 
 > Developed in Platzi Course: Backend with Node.js: API REST with Express.js
